@@ -6,24 +6,7 @@
 
 NodeCore-CMS, Node.js ve MySQL kullanılarak geliştirilmiş, ilişkisel veritabanı tasarımı ve veri bütünlüğü odaklı bir Content Management System (CMS) projesidir.
 
----
-
-## 📌 Genel Bakış
-
-Bu projede aşağıdaki gereksinimler eksiksiz şekilde sağlanmıştır:
-
-- En az **5 ana tablo + 1 log tablosu**
-- **3NF (Third Normal Form)** uyumlu veritabanı tasarımı
-- Kısıtlama ayarlamaları
-- 3 adet **VIEW**
-- 3 adet **STORED PROCEDURE**
-- 3 adet **TRANSACTION** örneği
-- 10 adet **kompleks SQL sorgusu**
-- Trigger kullanılarak **otomatik veritabanı loglama**
-
 **Mevcut sürüm:** `v1.1`
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 
